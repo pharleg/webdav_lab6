@@ -111,6 +111,11 @@ h2 strong {
 	color: #333;
 }
 
+b {
+  font-weight: 900;
+  font-size: 48px;
+}
+
 #center {
   width: 960px;
   text-align: center;
